@@ -1,0 +1,22 @@
+{
+	"name": "TinyDOC Editor",
+	"short_name": "TinyDOC Editor",
+	"lang": "en-US",
+	"start_url": "https://lrusso.github.io/tinyDOC/tinyDOC.htm",
+	"display": "standalone",
+	"orientation": "portrait",
+	"theme_color": "#F2F2F2",
+	"background_color": "#FFFFFF",
+	"icons": [
+		{
+			"src": "https://lrusso.github.io/tinyDOC/tinyDOCFavIcon_192x192.png",
+			"sizes": "192x192",
+			"type": "image/png"
+		},
+		{
+			"src": "https://lrusso.github.io/tinyDOC/tinyDOCFavIcon_512x512.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}
+	]
+}
